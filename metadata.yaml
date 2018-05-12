@@ -1,0 +1,48 @@
+_repo: The-De-Coverley-Papers-From-The-Spectator-_20648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: &id001 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+  - agent_name: Budgell, Eustace
+    birthdate: 1686
+    deathdate: 1737
+    gutenberg_agent_id: '26693'
+    url: http://www.gutenberg.org/2009/agents/26693
+    wikipedia: http://en.wikipedia.org/wiki/Eustace_Budgell
+  - agent_name: Steele, Richard, Sir
+    aliases:
+    - Edgar, John, Sir
+    - Steele, R. (Richard), Sir
+    - Bickerstaff, Isaac
+    birthdate: *id001
+    deathdate: 1729
+    gutenberg_agent_id: '984'
+    url: http://www.gutenberg.org/2009/agents/984
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
+  editor:
+    agent_name: Meek, Joseph H.
+    gutenberg_agent_id: '9438'
+    url: http://www.gutenberg.org/2009/agents/9438
+description: ''
+gutenberg_issued: '2007-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+title: The De Coverley Papers, From 'The Spectator'
+url: http://www.gutenberg.org/ebooks/20648
